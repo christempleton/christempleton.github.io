@@ -255,5 +255,15 @@ a.linkStyle_70:hover{color:#FEFFFF; text-decoration:none;}
 body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+a.Style27:visited{color:#3D5493; text-decoration:none;}
+a.Style27:hover{color:#FEFFFF; text-decoration:none;}
+.linkStyle_78{font-family: 'Helvetica',sans-serif;
+font-size: 15px; 
+color: #7E87B4;
+text-decoration: none; 
+/*110#FEFFFF#3D5493#FEFFFF*/
+word-wrap: break-word;}
+a.linkStyle_78:visited{color:#3D5493; text-decoration:none;}
+a.linkStyle_78:hover{color:#FEFFFF; text-decoration:none;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}

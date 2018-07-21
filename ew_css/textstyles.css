@@ -288,3 +288,53 @@ a.linkStyle_78:hover{color:#FEFFFF; text-decoration:none;}
 body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.Style84{font-family: 'Helvetica',sans-serif;
+font-size: 38px; 
+margin:0;
+color: #FEFEFE;
+word-wrap: break-word;}
+.Style85{font-family: 'Helvetica',sans-serif;
+font-size: 12px; 
+margin:0;
+color: #FEFEFE;
+word-wrap: break-word;}
+.Style86{font-family: 'Helvetica',sans-serif;
+font-size: 20px; 
+margin:0;
+color: #FEFEFE;
+word-wrap: break-word;}
+.Style87{font-family: 'Helvetica',sans-serif;
+font-size: 14px; 
+font-style: italic;
+color: #FEFEFE;
+word-wrap: break-word;}
+.Style88{font-family: 'Helvetica',sans-serif;
+font-size: 14px; 
+color: #FEFEFE;
+word-wrap: break-word;}
+.Style89{font-family: 'Helvetica',sans-serif;
+font-size: 14px; 
+margin:0;
+color: #FEFEFE;
+background-color: #3D3F3D; 
+word-wrap: break-word;}
+.Style90{font-family: 'Helvetica',sans-serif;
+font-size: 14px; 
+font-style: italic;
+color: #FEFEFE;
+background-color: #3D3F3D; 
+word-wrap: break-word;}
+.Style91{font-family: 'Helvetica',sans-serif;
+font-size: 14px; 
+color: #FEFEFE;
+background-color: #3D3F3D; 
+word-wrap: break-word;}
+a.Style89:visited{color:#3D5493; text-decoration:none;}
+a.Style89:hover{color:#FEFFFF; text-decoration:none;}
+.Style94{font-family: 'Helvetica',sans-serif;
+font-size: 18px; 
+margin:0;
+color: #FEFEFE;
+word-wrap: break-word;}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}

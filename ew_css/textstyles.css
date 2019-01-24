@@ -484,3 +484,21 @@ a.linkStyle_144:hover{color:#FEFFFF; text-decoration:none;}
 body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.linkStyle_150{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 16px; 
+color: #95A0CD;
+text-decoration: none; 
+/*110#FEFFFF#95A0CD#FEFFFF*/
+word-wrap: break-word;}
+a.linkStyle_150:visited{color:#95A0CD; text-decoration:none;}
+a.linkStyle_150:hover{color:#FEFFFF; text-decoration:none;}
+.linkStyle_153{font-family: 'ArialMT','Arial',sans-serif;
+color: #95A0CD;
+text-decoration: none; 
+/*110#FEFFFF#95A0CD#FEFFFF*/
+word-wrap: break-word;}
+a.linkStyle_153:visited{color:#95A0CD; text-decoration:none;}
+a.linkStyle_153:hover{color:#FEFFFF; text-decoration:none;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}

@@ -881,3 +881,11 @@
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.linkStyle_280{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 12px; 
+ color: #95A0CD;
+ text-decoration: underline; 
+ /* 0 0 0 #FFFEFE #95A0CD #FFFEFE */
+ word-wrap: break-word;}
+.linkStyle_280:visited{color:#95A0CD; text-decoration:underline;}
+.linkStyle_280:hover{color:#FFFEFE; text-decoration:underline;}

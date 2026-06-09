@@ -208,12 +208,14 @@ write_xlsx(combined_results, path = file.path("rate_LMM_Assumptions2", "Combined
 
 #### LMMS BY HAND ####
 
-## SWTH_rate_Song
+## SWTH_rate_Song with TOD and track
 
 lmm_SWTH_rate_Song = lmer(Rate ~ Playback_phase + Time.of.day + Exemplar.Track + (1 | IndividualID), data=SWTH_rate_Song)
 summary(lmm_SWTH_rate_Song)
 
-
+## SWTH_rate_Song without TOD and track (using for 5/8/26)
+lmm_SWTH_rate_Song = lmer(Rate ~ Playback_phase + (1 | IndividualID), data=SWTH_rate_Song)
+summary(lmm_SWTH_rate_Song)
 
 #### FINAL LINE PLOTS FOR SWTH SONG RATE ####
 
